@@ -87,11 +87,11 @@
 	                    <img src="Design/images/quality_food_img.png" >
 	                    <div class="caption">
 	                        <h3>
-	                            Quality Foods
+							Quality Culinary Delights:
 	                        </h3>
 	                        <p>
-	                        	Sit amet, consectetur adipiscing elit quisque eget maximus velit, 
-	                        	non eleifend libero curabitur dapibus mauris sed leo cursus aliquetcras suscipit.
+							Indulge in a symphony of flavors with our meticulously crafted dishes,
+							 showcasing the finest and freshest ingredients
 	                        </p>
 	                    </div>
 	                </div>
@@ -101,11 +101,11 @@
 	                    <img src="Design/images/fast_delivery_img.png" >
 	                    <div class="caption">
 	                        <h3>
-	                            Quality Foods
+							Effortless Gourmet at Your Doorstep
 	                        </h3>
 	                        <p>
-	                        	Sit amet, consectetur adipiscing elit quisque eget maximus velit, 
-	                        	non eleifend libero curabitur dapibus mauris sed leo cursus aliquetcras suscipit.
+							Experience our gourmet offerings in the comfort of your
+							home with our convenient food delivery service.
 	                        </p>
 	                    </div>
 	                </div>
@@ -115,11 +115,11 @@
 	                    <img src="Design/images/original_taste_img.png" >
 	                    <div class="caption">
 	                        <h3>
-	                            Quality Foods
+							Seamless Dining Experience
 	                        </h3>
 	                        <p>
-	                        	Sit amet, consectetur adipiscing elit quisque eget maximus velit, 
-	                        	non eleifend libero curabitur dapibus mauris sed leo cursus aliquetcras suscipit.
+							Elevate your moments with us by making a table reservation
+							where our welcoming ambiance and attentive staff ensure a memorable dining experience.
 	                        </p>
 	                    </div>
 	                </div>
